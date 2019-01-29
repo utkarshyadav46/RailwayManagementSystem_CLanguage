@@ -1,0 +1,29 @@
+
+			------------------------------------------------------------------------------------
+
+							IRCTC RAILWAYS
+
+			------------------------------------------------------------------------------------
+
+			E-ticket		WAITING TICKET				PNR NO:1043
+
+						ACCOUNT NAME:	avi
+
+						PHONE NO. :	98299
+
+						TRAIN NO. OR NAME :	4321
+
+						BOARDING STATION :	a
+
+						DESTINATION :	c
+
+						JOURNEY DATE  :	2/2/2
+
+						DAY OF JOURNEY :	Friday
+
+			------------------------------------------------------------------------------------
+
+
+			PASSENGERS		AGE			GENDER			SEAT NO
+
+			aviwl			20			M			WL/1
